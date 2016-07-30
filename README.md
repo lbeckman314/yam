@@ -12,8 +12,8 @@ Another paragraph
 3. list
 4. baby!
 
-*Bullet 
-*points
+* Bullet 
+* points
 
 ***
 
