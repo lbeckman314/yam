@@ -1,0 +1,2 @@
+# yam
+yam.java practice
