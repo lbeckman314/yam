@@ -1,0 +1,15 @@
+class apples
+{
+  public static void main(String[] args)
+  {
+    double test =  5;
+    if (test == 9)
+    {
+      System.out.println("yas");
+    }
+    else
+    {
+      System.out.println("naw");
+    }
+  }
+}
